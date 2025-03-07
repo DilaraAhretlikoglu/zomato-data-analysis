@@ -2,7 +2,7 @@
 
 ## 📌**Proje Açıklaması** 
 
-Bu proje, Zomato veri seti kullanılarak restoranların online sipariş kabul etme durumu, puan dağılımları, fiyat aralıkları gibi faktörlerin analiz edilmesini amaçlamaktadır. Veri analizi teknikleri ve görselleştirme yöntemleri ile restoranların müşteri davranışları üzerindeki etkileri incelenmiştir.
+Zomato, Hindistan merkezli bir restoran keşif ve online yemek sipariş platformudur. 2008 yılında kurulmuş olup, dünya genelinde birçok ülkede restoran değerlendirmeleri, menüler ve kullanıcı yorumları gibi bilgileri içeren bir veri tabanı sunmaktadır.Bu proje, Zomato veri seti kullanılarak restoranların online sipariş kabul etme durumu, puan dağılımları, fiyat aralıkları gibi faktörlerin analiz edilmesini amaçlamaktadır. Veri analizi teknikleri ve görselleştirme yöntemleri ile restoranların müşteri davranışları üzerindeki etkileri incelenmiştir.
 
 ## 📊 **Veri Seti**
 
